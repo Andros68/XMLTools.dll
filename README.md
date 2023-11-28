@@ -1,0 +1,2 @@
+# XMLTools.dll
+EditorTexto
